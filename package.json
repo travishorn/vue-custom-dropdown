@@ -1,0 +1,23 @@
+{
+  "name": "vue-custom-dropdown",
+  "version": "0.1.0",
+  "description": "Example app using a Vue component for a custom dropdown element.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.4.1",
+    "vue": "^3.2.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "autoprefixer": "^10.3.7",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.17",
+    "vite": "^2.6.4"
+  },
+  "author": "Travis Horn (https://travishorn.com/)",
+  "license": "MIT"
+}
